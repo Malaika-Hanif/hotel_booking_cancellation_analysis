@@ -104,7 +104,7 @@ git clone https://github.com/yourusername/hotel-booking-analysis.git
 2. Install required libraries:
 
 ```bash
-pip install pandas numpy matplotlib seaborn
+pip install pandas  matplotlib seaborn
 ```
 
 3. Open Jupyter Notebook and run the notebook file.
@@ -137,4 +137,3 @@ Aspiring Data Analyst | Learning Machine Learning & AI
 
 
 
-I can customize it perfectly for you like a real portfolio-level README 💼✨
